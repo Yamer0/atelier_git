@@ -1,1 +1,1 @@
-#Mon premier projet
+#Mon premier projet : moyenne, note_max et mediane
